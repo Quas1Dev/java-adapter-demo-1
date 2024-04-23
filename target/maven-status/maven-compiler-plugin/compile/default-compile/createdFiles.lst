@@ -1,0 +1,6 @@
+com/mycompany/adapterdemo/Shape/TriInterface.class
+com/mycompany/adapterdemo/Shape/Triangle.class
+com/mycompany/adapterdemo/Shape/Rectangle.class
+com/mycompany/adapterdemo/Shape/Adapter.class
+com/mycompany/adapterdemo/Shape/RectInterface.class
+com/mycompany/adapterdemo/AdapterDemo.class
